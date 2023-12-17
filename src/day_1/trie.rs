@@ -1,7 +1,7 @@
 use crate::day_1::node::Node;
 
 pub(crate) struct Trie {
-    pub(crate) root: Node,
+    root: Node,
 }
 
 impl Trie {
